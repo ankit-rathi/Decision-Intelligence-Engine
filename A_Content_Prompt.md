@@ -1,263 +1,295 @@
-Here is the clean, reference-ready version you can store separately.
+Absolutely.
+Below is your **latest consolidated operating standard**.
+
+This version integrates:
+
+* v3.2 (Mechanism + Economic Rigor)
+* v3.3 (Hybrid Clarity with Precision)
+* v3.4 (Visual Precision + Controlled Density)
+
+This is now your active system:
 
 ---
 
-# **Data & AI Visual Notebook – Master Framework v3.2 (Feb 2026)**
+# **Data & AI Visual Notebook — Master Framework v3.4**
 
-**Governing Principle:**
-**Decision quality is the true unit of value under uncertainty.**
-
-This framework governs structure, depth, tone, and quality control for all notebook artifacts.
+### *(Clarity + Visual Precision Edition)*
 
 ---
 
 # I. CORE PHILOSOPHY
 
-Data & AI are not ends in themselves.
-They are **decision architectures**.
+The Notebook exists to:
 
-The purpose of every page:
+> Improve decision quality under uncertainty through mechanism-traced, economically grounded clarity.
 
-> Improve decision quality in economically meaningful ways.
+Everything must tie back to:
 
-All components must connect back to:
-
-* Resource allocation
+* Decisions
 * Uncertainty
 * Expected value
-* Tradeoffs
+* Capital allocation
 * Long-term compounding
 
-No technical abstraction without economic consequence.
+No conceptual drift.
+No abstraction without economic anchor.
 
 ---
 
-# II. STRUCTURAL FORMAT (MANDATORY)
+# II. ARTICLE STANDARD (RIGHT PAGE)
 
-Every artifact must contain:
+### Objective
 
-1. **Right Page — Article**
-2. **Left Page — Visual Note**
-3. **YouTube Short — Reinforcement**
-4. **QC Report**
-5. **Final Quality Score**
-
-No omissions.
-
----
-
-# III. RIGHT PAGE — ARTICLE STANDARD
-
-### Style Requirement
-
-Cassie Kozyrkov–inspired:
+Explain one integrated concept with:
 
 * First-principles reasoning
-* Mechanism-traced
-* Economic framing explicit
-* No hype
-* No jargon inflation
-* No tool-centric narrative
+* Clear causal chain
+* Explicit economic framing
+* Business relevance
+* Low cognitive load
 
-### Structural Rules
+---
 
-* 350–390 words (unless explicitly constrained)
-* Clear causal flow
-* Explicit tradeoffs
-* No scope expansion
-* No redundancy
-* End with structural forward bridge (if not Preface)
+## Required Elements
 
-### Capstone Rule (Strategic Topics)
+1. 350–450 words (capstone may stretch slightly)
+2. Medium-length conversational sentences
+3. One clear mechanism per paragraph
+4. At least one applied business example
+5. One structural misalignment warning
+6. Systems-level closing insight
+
+---
+
+## Language Rules
+
+* No abstraction stacking.
+* No academic density.
+* No motivational tone.
+* No short punchy Twitter-style fragmentation.
+* Precision without cognitive strain.
+
+Target tone:
+
+> Calm boardroom clarity.
+
+If a sentence needs re-reading → it fails.
+
+---
+
+# III. VISUAL NOTE STANDARD (LEFT PAGE)
+
+### Purpose
+
+Create high-density, low-friction structural clarity.
+
+---
+
+## Required Structure
 
 Must include:
 
-* Full causal chain
-* Explicit systemic failure mode
-* Economic alignment statement
+1. Topic header
+2. Decision-level tagline
+3. Exactly 8 sections
+4. Each section must include:
+
+   * Explicit icon suggestion
+   * 3 bullets (1–3 words only)
+   * Each bullet must include a bracket cue (2–4 words only)
 
 ---
 
-# IV. LEFT PAGE — VISUAL NOTE STANDARD
+## Bullet Rules (Strict)
 
-### Section Count
-
-* 7–8 sections only
-* May exceed only if structurally unavoidable (must justify in QC)
-
-### Section Rules
-
-Each section must contain:
-
-* Exactly **one explicit icon suggestion**
-* 3–5 bullets
-* Every bullet must include a **bracketed mechanism cue**
-
-Example cue format:
-
-* [reduces variance]
-* [encodes tradeoff]
-* [shifts expected value]
-* [creates incentive distortion]
-* [defines visibility boundary]
-
-### Cue Standard
-
-Cues must clarify:
-
-* Function
-* Tradeoff
-* Causal impact
-
-No decorative cues.
-No vague parentheses.
+* Bullet text: 1–3 words only
+* Bracket cue: 2–4 words only
+* No sentence-style bullets
+* No conceptual sprawl
+* Structure consistent across sections
 
 ---
 
-# V. VISUAL CRUX RULE
+## Visual Standard
 
-Everything must compress into:
+* Clean.
+* Scannable.
+* Mechanism implied via cues.
+* No redundancy across sections.
 
-> One core sentence explaining how value is formed.
-
-This sentence must:
-
-* Be economically precise
-* Clarify mechanism
-* Reinforce decision-quality thesis
-
-If it cannot compress cleanly → structure is unclear.
+If bullets exceed 3 words → auto −1.
+If cues exceed 4 words → auto −1.
+If sections ≠ 8 → auto −2.
 
 ---
 
-# VI. YOUTUBE SHORT STANDARD
+# IV. YOUTUBE SHORT STANDARD
 
-Purpose:
-Reinforce the crux conversationally.
+### Objective
 
-Requirements:
+Reinforce the concept conversationally.
 
-* 130–150 words
-* Under 60 seconds
+---
+
+## Required Structure
+
+* 60–90 seconds
+* 130–160 words
 * Medium-length sentences
-* No hype
-* No dramatic fluff
-* Must reinforce core mechanism
+* One core idea
+* One example
+* One clean takeaway
 
 Tone:
-Clear. Calm. Direct. Intelligent.
 
-Not motivational.
-Not theatrical.
+* Calm
+* Strategic
+* Clear
+* Not hype
+* Not motivational
 
----
-
-# VII. COHERENCY PROTOCOL
-
-The full response must:
-
-* Maintain one integrated concept
-* Avoid scope drift
-* Avoid redundancy
-* Ensure Article → Visual → Short logically reinforce each other
-* Maintain economic framing throughout
-* Preserve intellectual sharpness
-
-Every component must justify its existence.
-
-If a section can be removed without weakening the system → it is unnecessary.
+Must reinforce the article’s economic thesis.
 
 ---
 
-# VIII. QC CHECKLIST (MANDATORY OUTPUT)
+# V. LANGUAGE CALIBRATION LAYER (Hybrid Clarity with Precision)
 
-Each response must include a QC Report covering:
+Every component must pass:
 
-### Article Checks
+* Business friendly
+* Tech friendly
+* Mechanism explicit
+* No cognitive spikes
+* Progressive abstraction layering
+* No jargon inflation
 
-* Cassie style compliance
-* First-principles reasoning
-* Word count compliance
-* Mechanism clarity
-
-### Visual Note Checks
-
-* 7–8 sections
-* Exactly one icon per section
-* 3–5 bullets per section
-* Every bullet has mechanism cue
-* Cue quality (function/tradeoff/causal clarity)
-
-### Visual Crux Check
-
-* Compressible into one core sentence
-* Value formation clear
-
-### YouTube Short Checks
-
-* Word count
-* Tone compliance
-* Crux reinforcement
-
-### Coherency Check
-
-* No structural gaps
-* No drift
-* Clear integrated system
+Clarity overrides compression.
 
 ---
 
-# IX. QUALITY SCORING STANDARD
+# VI. ECONOMIC ANCHOR RULE (MANDATORY)
 
-Each response must end with:
+Every topic must explicitly or implicitly connect to:
 
-* Article Score (/10)
-* Visual Note Score (/10)
-* YouTube Short Score (/10)
-* Overall Framework Adherence Score (/10)
+* Expected value
+* Risk allocation
+* Capital allocation
+* Incentive design
+* Long-term compounding
 
-Scoring must reflect:
+If the economic layer is missing → score capped at 9.
 
-* Structural compliance
-* Intellectual precision
+---
+
+# VII. CAPSTONE RULE (For Integrated Topics)
+
+If topic is synthesis-level:
+
+* Full causal chain must be visible
+* Each layer must link economically
+* No redundancy drift
+* End with unified system insight
+
+---
+
+# VIII. QC SCORING GRID (50-Point System)
+
+### 1️⃣ Article (10)
+
+* Mechanism traced
+* Economic framing
+* Business example
+* Misalignment warning
+* Medium clarity
+* Clean close
+
+---
+
+### 2️⃣ Visual Note (10)
+
+* Topic + tagline
+* 8 sections exactly
+* Icon per section
+* 1–3 word bullets
+* 2–4 word cues
+* Structural consistency
+
+---
+
+### 3️⃣ YT Short (10)
+
+* One idea
+* Example included
+* Medium sentences
+* Calm tone
+* Clear takeaway
+
+---
+
+### 4️⃣ Language Calibration (10)
+
+* Hybrid clarity achieved
+* No density spikes
+* No abstraction stacking
+* Readable in one pass
+* Business + tech friendly
+
+---
+
+### 5️⃣ Structural Compliance (10)
+
+* Strict formatting adherence
+* No missing required components
+* No scope drift
+* Framework integrity preserved
+
+---
+
+# IX. What This Framework Optimizes For
+
+* Intellectual rigor
 * Economic clarity
-* System integration
+* Production consistency
+* Visual scanability
+* Professional readability
+* Compounding educational value
 
-No automatic 10/10.
-Score must be defensible.
+Audience assumption:
 
----
-
-# X. NON-NEGOTIABLE RULES
-
-1. Decision quality is the anchor.
-2. Mechanisms over descriptions.
-3. Tradeoffs must be explicit.
-4. No abstraction without economic consequence.
-5. No tool worship.
-6. No inflated language.
-7. No aesthetic formatting without structural purpose.
+> Smart data, tech, and business professionals who value clarity over theatrics.
 
 ---
 
-# XI. MASTER INTENT
+# X. Non-Negotiables
 
-This notebook is not about:
+* No rhetorical fluff.
+* No unnecessary metaphors.
+* No vague abstraction.
+* No emotional persuasion framing.
+* No over-compression for stylistic effect.
 
-* Data tools
-* AI trends
-* Framework collections
-* Technical depth for its own sake
-
-It is about:
-
-> Designing systems that measurably improve decision quality under uncertainty.
-
-Everything must serve that objective.
+If precision and clarity conflict:
+Clarity wins.
 
 ---
 
-**Version Locked:**
-Data & AI Visual Notebook – Master Framework v3.2 (Feb 2026)
+# Final Summary
 
-Ready for reference storage.
+This framework ensures every topic:
+
+* Begins with decisions.
+* Explains mechanisms.
+* Anchors in economics.
+* Clarifies tradeoffs.
+* Reduces cognitive load.
+* Ends with strategic insight.
+
+You are not writing content.
+You are building a structured thinking system.
+
+---
+
+If you want, I can now:
+
+* Freeze this as v3.5 (Locked Governance Edition)
+* Or stress-test it with a high-difficulty capstone topic.

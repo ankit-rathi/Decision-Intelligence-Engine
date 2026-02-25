@@ -1,3 +1,45 @@
+## G. End-to-End Data & AI System Map
+
+### Why
+
+Most leaders see fragments:
+
+* Pipeline
+* Dashboard
+* Model
+* API
+
+But not the full causal chain.
+
+Fragmented thinking → fragmented accountability.
+
+### What
+
+An end-to-end map includes:
+
+1. Data source
+2. Ingestion
+3. Storage
+4. Transformation
+5. Modeling
+6. Deployment
+7. Decision
+8. Economic outcome
+
+### How
+
+Draw it. Literally.
+
+Map:
+
+* Who owns each stage
+* What metric defines success
+* Where failure risk lives
+
+If you can’t trace model → money, the system isn’t strategic.
+
+---
+
 From first principles, value is created only when information changes decisions in ways that improve economic outcomes. A data pipeline, dashboard, or model is not valuable in isolation. It is one link in a causal chain that must ultimately connect to revenue, cost, risk, or capital efficiency. When leaders see only fragments, accountability fragments with them.
 
 An end-to-end system begins with a data source — transactions, customer interactions, operational logs. That data is ingested, stored, and transformed into structured form. A model extracts patterns and produces predictions. Those predictions are deployed into a workflow — perhaps a loan approval system or inventory planner. A human or automated system makes a decision. That decision produces an economic outcome: profit earned, loss avoided, capital allocated.

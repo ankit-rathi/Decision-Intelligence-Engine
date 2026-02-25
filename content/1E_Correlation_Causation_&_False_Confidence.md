@@ -1,3 +1,13 @@
+## **E. Correlation, Causation & False Confidence**
+
+**Why:** Misinterpreting correlation as causation creates overconfidence and poor decisions.
+
+**What:** Correlation is a **statistical association**; causation is a **mechanism linking action to outcome**.
+
+**How:** Combine experiments, temporal analysis, and domain expertise to separate correlation from causation before acting.
+
+---
+
 From first principles, observing that two variables move together does not explain *why* they move together. Correlation simply means that when one variable changes, another tends to change in a predictable pattern. Causation requires a mechanism — a credible pathway through which one factor produces change in another.
 
 The confusion arises because the human brain is wired to detect patterns and infer stories. If sales rise when advertising spend increases, it feels natural to conclude that advertising caused the growth. But both could be driven by a third factor, such as seasonal demand. Acting on correlation alone introduces false confidence — the illusion of control without validated leverage.

@@ -1,3 +1,35 @@
+## C. Incentive Alignment in Data Organizations
+
+### Why
+
+Misaligned incentives destroy decision quality.
+
+Example:
+
+* Data team rewarded for model accuracy
+* Business rewarded for revenue growth
+
+They optimize different things.
+
+### What
+
+Alignment means:
+
+* Shared metrics
+* Shared accountability
+* Shared risk exposure
+
+### How
+
+* Tie data KPIs to business KPIs
+* Embed data scientists inside business units
+* Reward impact, not experimentation volume
+
+Metrics shape behavior.
+Behavior shapes decisions.
+
+---
+
 From first principles, people respond to incentives. In organizations, what gets measured and rewarded determines how individuals allocate effort. If incentives are misaligned with overall economic objectives, rational individuals will optimize locally while the system underperforms globally.
 
 In data organizations, this misalignment is common. Suppose a data science team is evaluated on model accuracy, publication output, or experimentation volume. Meanwhile, the business unit is evaluated on revenue growth, cost control, or risk-adjusted return. Each group optimizes its own metric. The data team may build increasingly complex models that marginally improve predictive performance. The business team may ignore those models if they do not clearly improve financial outcomes.

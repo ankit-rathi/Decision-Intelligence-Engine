@@ -33,10 +33,10 @@ That’s how you preserve coherence.
 
 # 🧭 STRUCTURAL LOGIC
 
-**PART I – Shared Economic & Decision Foundation (All Audiences)**
-**PART II – Designing Decision Systems (Common Core, Deeper for Technical)**
-**PART III – Role-Specific Lenses**
-**PART IV – Governance, ROI & Institutionalization (All Audiences, Executive Emphasis)**
+- **PART I – Shared Economic & Decision Foundation (All Audiences)**
+- **PART II – Designing Decision Systems (Common Core, Deeper for Technical)**
+- **PART III – Role-Specific Lenses**
+- **PART IV – Governance, ROI & Institutionalization (All Audiences, Executive Emphasis)**
 
 ---
 

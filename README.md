@@ -26,7 +26,7 @@ Alternate:
 The book should have **5 major parts**.
 
 ```
-Part I     The Data Value Problem
+Part I     The Data Value Illusion
 Part II    The Decision Value Chain
 Part III   Building Intelligence
 Part IV    Decision Systems

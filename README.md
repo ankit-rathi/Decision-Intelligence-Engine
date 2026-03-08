@@ -314,7 +314,9 @@ Key idea:
 ```
 Strategic decisions → required intelligence → required data
 ```
+
 **A real data strategy starts with critical business decisions, not data assets.**
+
 ---
 
 ### Chapter 17 — Operating Model
@@ -328,7 +330,9 @@ Roles:
 * product managers
 * business leaders
 
+
 **Data value emerges when engineers, analysts, product teams, and leaders align around decisions.**
+
 ---
 
 ### Chapter 18 — From Data Teams to Decision Teams
@@ -352,12 +356,14 @@ Revenue
 Cost
 Risk
 ```
+
 **If a data initiative cannot be linked to revenue, cost, or risk, its value is unclear.**
+
 ---
 
 ### Chapter 20 — The Future: AI-Native Organizations
 
-Organizations designed around **decision systems**.
+> Organizations designed around **decision systems**.
 
 **The most successful organizations will operate as continuous learning decision systems.**
 
@@ -375,7 +381,8 @@ Data → Intelligence → Decision → Action → Business Value
   └────────── Learning Loop ────────────────┘
 ```
 
-Explain how this becomes the **operating system of modern organizations**.
+> Explain how this becomes the **operating system of modern organizations**.
+
 **Modern organizations win not by collecting more data but by building better decision engines.**
 
 ---

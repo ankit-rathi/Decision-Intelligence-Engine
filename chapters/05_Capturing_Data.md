@@ -200,7 +200,7 @@ This example illustrates how **instrumentation determines what aspects of user b
 
 ---
 
-## Final Section — Why Data Quality Begins at Observation
+## Why Data Quality Begins at Observation
 
 * Data quality is often treated as an issue of cleaning or processing datasets, but the root cause usually lies earlier in the pipeline.
 * The accuracy and completeness of datasets depend heavily on **how events are captured in the first place**.

@@ -131,7 +131,7 @@ Design suggestions:
 
 ---
 
-## Example Section — Personalization Systems in Streaming Platforms
+## Example — Personalization Systems in Streaming Platforms
 
 Consider how a streaming platform improves its recommendation system over time.
 
@@ -171,7 +171,7 @@ Over time, the platform develops deep insight into user preferences, strengtheni
 
 ---
 
-## Final Section — Building Organizations That Learn From Every Decision
+## Building Organizations That Learn From Every Decision
 
 * The Decision Flywheel illustrates how operational activity can become a **continuous learning system**.
 * Each decision produces outcomes that reveal information about the environment.

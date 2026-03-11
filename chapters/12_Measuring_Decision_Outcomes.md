@@ -171,7 +171,9 @@ Through systematic outcome measurement, the organization learns whether its deci
 * This evaluation process transforms operational decisions into **learning opportunities that reveal what works and what does not**.
 * Without reliable outcome measurement, organizations cannot improve their decision systems because they lack objective feedback.
 
-The next chapter explores how these measured outcomes feed back into intelligence systems, enabling organizations to **learn and continuously improve their decision models**.
+**Transition to the Next Chapter**
+
+Measuring outcomes allows organizations to understand the impact of their decisions. When this information is systematically fed back into analytical systems, it creates a powerful cycle of learning. The next chapter introduces the Decision Flywheel, which explains how continuous feedback accelerates organizational learning.
 
 ---
 

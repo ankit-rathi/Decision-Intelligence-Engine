@@ -192,8 +192,9 @@ Through this process, the organization moves from analyzing past churn events to
 * Because the future is uncertain, predictions are expressed as probabilities and must be evaluated carefully.
 * When properly designed and validated, predictive models provide organizations with **foresight that supports proactive action**.
 
-However, predictions alone do not determine what actions should be taken.
-The next step is translating predictive insights into **decisions and operational responses**, which is the focus of the following chapter.
+**Transition to the Next Chapter**
+
+Predictive models allow organizations to anticipate possible outcomes, but predictions alone do not create intelligence. Intelligence emerges when predictions are continuously refined using feedback from real-world results. The next chapter introduces the Intelligence Loop—a system for continuously improving predictive models.
 
 ---
 

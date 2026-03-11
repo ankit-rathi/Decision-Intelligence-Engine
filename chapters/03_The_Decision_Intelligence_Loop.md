@@ -106,7 +106,7 @@ Reality → Data → Intelligence → Decisions → Actions → Outcomes → Lea
 
 ---
 
-## Example Section — Product Recommendation Systems in E-Commerce
+## Example — Product Recommendation Systems in E-Commerce
 
 * An e-commerce platform collects observations about how users interact with its website.
 * Events such as page views, searches, product clicks, and purchases generate data about customer behavior.

@@ -154,7 +154,7 @@ Design suggestions:
 
 ---
 
-## Example Section — Improving Fraud Detection in a Payment Platform
+## Example — Improving Fraud Detection in a Payment Platform
 
 Consider a payment platform using predictive models to detect fraudulent transactions.
 
@@ -189,7 +189,7 @@ As fraud tactics evolve, the intelligence loop allows the detection system to **
 
 ---
 
-## Final Section — Intelligence as a Continuous Learning Process
+## Intelligence as a Continuous Learning Process
 
 * Predictive intelligence does not end with building a model; it requires continuous learning from new data.
 * The intelligence loop ensures that predictions, outcomes, and feedback remain connected in an ongoing cycle.

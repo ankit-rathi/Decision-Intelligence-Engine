@@ -92,7 +92,7 @@ This process enables organizations to build a structured representation of reali
 
 ---
 
-## Example Section — Measuring Customer Behavior in E-Commerce
+## Example — Measuring Customer Behavior in E-Commerce
 
 * An e-commerce company wants to understand how customers interact with its website.
 * Customers generate real-world events such as viewing products, searching for items, adding items to carts, and completing purchases.

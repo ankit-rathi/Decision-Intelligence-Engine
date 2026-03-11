@@ -168,6 +168,10 @@ Through this loop, the company continuously improves its recommendations and ada
 
 This completes the framework of decision intelligence systems presented throughout the book: a structured approach for building organizations that learn systematically from their decisions.
 
+**Closing Reflection**
+
+When organizations integrate measurement, intelligence, decision-making, and learning into a continuous system, data becomes more than an asset—it becomes a mechanism for adaptation. In such organizations, every decision becomes an opportunity to learn and improve. The result is an enterprise that evolves continuously through evidence, insight, and experience.
+
 ---
 
 ## References

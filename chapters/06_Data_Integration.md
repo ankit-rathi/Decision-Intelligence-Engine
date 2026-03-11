@@ -1,158 +1,230 @@
-## Chapter 6 — Data Integration
-
-### Chapter Crux
-
-Organizations generate data across many independent systems—applications, databases, logs, sensors, and third-party platforms. Each system captures only a **partial view of reality**. Data integration exists to combine these fragmented observations into coherent datasets that can support analysis and decision-making.
-
-Without integration, data remains scattered across operational silos. Customer information might live in one system, transactions in another, and behavioral logs in a third. Decision-makers cannot easily reconstruct the full picture of what is happening in the business.
-
-Data integration solves this by building **pipelines that move, transform, and unify data across systems**. These pipelines ensure that data from multiple sources can be combined into consistent, analyzable structures. Integration also manages how data evolves over time through schema changes and coordination between producing and consuming systems.
-
-In essence, data integration transforms isolated data sources into a **shared foundation for organizational intelligence**.
+# Chapter 6 — Data Integration
 
 ---
 
-### Problem
+## Fragmented Observations Across Organizational Systems
 
-Modern organizations operate dozens or even hundreds of systems that generate data independently.
+* Modern organizations operate through many specialized systems built for specific operational tasks.
+* Examples include:
 
-Examples include:
-
-* operational transaction systems
-* mobile and web applications
-* customer relationship platforms
-* marketing tools
-* payment systems
-* infrastructure logs
-
-Each system records data in its own format, schema, and timing. This creates several challenges:
-
-* inconsistent definitions across systems
-* duplicate or conflicting records
-* incompatible schemas
-* delayed or incomplete data availability
-
-For example, a company may store customer profiles in one system, purchase transactions in another, and marketing interactions in a third. Without integration, it becomes difficult to answer basic questions such as:
-
-* Which customers are most valuable?
-* Which marketing campaigns drive purchases?
-* How does behavior change across channels?
-
-The core problem is **data fragmentation**. Individual datasets capture partial truths, but organizations need a unified view.
+  * sales systems recording transactions
+  * marketing platforms tracking campaigns
+  * operational systems monitoring logistics or manufacturing
+  * support systems managing customer interactions
+* Each system captures a **narrow slice of organizational activity**, optimized for operational efficiency rather than analytical completeness.
+* As a result, data is scattered across multiple databases, applications, and services.
+* These systems rarely share a unified structure, meaning the same entities may appear differently in different systems.
+* Without integration, analysts and decision-makers see **fragmented observations rather than a coherent representation of the organization**.
 
 ---
 
-### Key Diagram
+## Connecting Partial Views into a Unified Dataset
 
-**Data Integration Pipeline**
+* Data integration is the process of combining data from multiple sources into a unified and consistent dataset.
+* The objective is not merely to collect data, but to **connect observations that originate in different systems**.
+* Integration makes it possible to reconstruct processes that span multiple systems, such as:
 
-```id="9cb9g5"
-Multiple Data Sources
-   ↓
-Data Pipelines
-   ↓
-Transformation & Standardization
-   ↓
-Unified Data Platform
-   ↓
-Analytics & Intelligence
+  * the full customer lifecycle
+  * supply chain operations
+  * product usage and support interactions
+* Achieving this requires:
+
+  * aligning entity identifiers across systems
+  * reconciling differences in data formats
+  * consolidating multiple event streams into a shared structure
+* Once integrated, datasets begin to reflect the organization as **an interconnected system of activities rather than isolated operational silos**.
+
+---
+
+## The Data Pipeline: Moving and Transforming Information
+
+* Integration is typically implemented through **data pipelines** that move data from operational systems into analytical environments.
+
+* These pipelines generally involve three core stages:
+
+  * **Extraction** – retrieving data from source systems such as databases, APIs, or event streams.
+  * **Transformation** – cleaning, standardizing, and reshaping data into a consistent format.
+  * **Loading** – storing the transformed data in a central repository such as a data warehouse or data lake.
+
+* Pipelines may operate in different modes depending on requirements:
+
+  * **Batch processing** for periodic updates
+  * **Streaming pipelines** for near real-time data movement
+
+* Reliable pipelines ensure that integrated datasets remain **continuously updated as new events occur**.
+
+---
+
+## Maintaining Consistency Across Evolving Systems
+
+* Integration is not a one-time task but an ongoing process that must adapt as systems evolve.
+* Operational systems frequently change:
+
+  * schemas evolve
+  * new attributes are added
+  * systems are replaced or upgraded
+* Integration pipelines must handle these changes without breaking downstream datasets.
+* This requires:
+
+  * schema management and version control
+  * monitoring pipelines for failures or inconsistencies
+  * maintaining documentation of data transformations
+* Sustained integration efforts ensure that unified datasets remain **reliable representations of organizational activity over time**.
+
+---
+
+## Revealing System-Level Relationships Through Integration
+
+* Once datasets from different systems are combined, previously hidden relationships become visible.
+* Analysts can connect events across domains, enabling insights such as:
+
+  * linking marketing campaigns to sales outcomes
+  * connecting product usage patterns with customer churn
+  * tracing operational delays back to upstream causes
+* Integrated datasets allow organizations to move from **isolated metrics to system-level analysis**.
+* This shift transforms data from a collection of operational records into a **comprehensive view of organizational behavior**.
+
+---
+
+## Diagram — Conceptual Illustration
+
+```
+Sales System      Marketing System      Operations System
+      │                    │                    │
+      │                    │                    │
+      └──────────┬─────────┴─────────┬──────────┘
+                 │                   │
+            Data Extraction
+                 │
+                 ↓
+           Data Transformation
+      (Standardization & Linking)
+                 │
+                 ↓
+           Unified Dataset
+                 │
+                 ↓
+        Organization-Wide View
 ```
 
-Explanation:
+### Explanation
 
-* **Data sources:** operational systems producing raw data
-* **Pipelines:** processes that move data between systems
-* **Transformation:** cleaning, structuring, and standardizing data
-* **Unified platform:** centralized datasets ready for analysis
+The diagram illustrates how **data integration connects multiple operational systems into a unified dataset**.
 
-Integration connects distributed observations into a coherent data foundation.
+* Independent systems each produce their own datasets.
+* Data pipelines extract information from these systems.
+* Transformation processes standardize formats and connect related entities.
+* The integrated result becomes a **unified dataset** that reflects the organization’s activities across systems.
 
----
-
-### Core Mechanism
-
-Data integration relies on several core architectural mechanisms.
-
-**1. Data Pipelines**
-
-Data pipelines move data from source systems into analytical environments such as data warehouses or data lakes.
-
-Pipelines typically perform tasks such as:
-
-* extracting data from operational systems
-* transforming data into standardized formats
-* loading it into centralized storage
-
-This process enables organizations to analyze data across multiple systems.
+This unified dataset allows analysts and decision systems to observe relationships that were previously hidden within isolated systems.
 
 ---
 
-**2. ETL vs ELT**
+### Guidance for Drawing in PowerPoint
 
-Two common integration patterns are:
+Layout:
 
-* **ETL (Extract → Transform → Load):**
-  Data is transformed before entering the storage system.
+* Use a **top-to-bottom flow** with multiple systems feeding into a pipeline.
 
-* **ELT (Extract → Load → Transform):**
-  Data is first loaded into a centralized platform and then transformed there.
+Shapes:
 
-Modern cloud data platforms often favor ELT because it allows more flexible and scalable transformations.
+* Rectangles for source systems:
 
----
+  * Sales System
+  * Marketing System
+  * Operations System
+* A rectangle labeled **Data Extraction** below them.
+* A rectangle labeled **Data Transformation** beneath extraction.
+* A rectangle labeled **Unified Dataset** at the bottom.
+* Final rectangle labeled **Organization-Wide View**.
 
-**3. Batch vs Streaming**
+Arrows:
 
-Data pipelines can operate in different modes:
+* Arrows from each source system pointing toward the extraction stage.
+* Downward arrows connecting each stage of the pipeline.
 
-* **Batch processing:** data is processed periodically in large groups (e.g., hourly or daily).
-* **Streaming:** data is processed continuously as events occur.
+Design suggestions:
 
-Batch pipelines support large-scale analytics, while streaming systems enable real-time decision-making.
-
----
-
-**4. Data Contracts and Schema Evolution**
-
-As systems evolve, the structure of data often changes.
-
-Data contracts define **clear agreements between data producers and consumers** about schema structure and expected fields. These agreements help prevent downstream systems from breaking when schemas change.
-
-Managing schema evolution ensures that integration pipelines remain stable even as source systems evolve.
+* Place the source systems horizontally at the top.
+* Use a consistent color for pipeline stages.
+* Keep the layout symmetrical and uncluttered.
 
 ---
 
-### Example
+## Example Section — Integrating Customer Data Across Systems
 
-Consider a retail company that operates multiple systems:
+Consider how an online retailer integrates customer data from multiple systems.
 
-* an e-commerce platform recording online purchases
-* a point-of-sale system capturing in-store transactions
-* a marketing platform tracking email campaigns
-* a customer support system recording service interactions
+Three independent systems produce relevant data:
 
-Each system generates its own dataset.
+* **E-commerce platform**
 
-Data integration pipelines extract data from these systems and load it into a centralized warehouse. During transformation, customer identifiers are standardized so that records from different systems can be linked.
+  * records purchases and orders
 
-Once integrated, the company can analyze questions such as:
+* **Marketing automation system**
 
-* how marketing campaigns influence purchases
-* how support interactions affect customer retention
-* how online and offline behavior relate
+  * tracks email campaigns and website visits
 
-Integration allows the organization to view the **full customer journey** rather than isolated events.
+* **Customer support platform**
+
+  * logs service requests and complaints
+
+Mapping this example to the diagram:
+
+1. **Source Systems**
+
+   * The sales platform records purchase events.
+   * The marketing system tracks campaign engagement.
+   * The support system records customer tickets.
+
+2. **Data Extraction**
+
+   * Data pipelines retrieve records from each system’s database or API.
+
+3. **Data Transformation**
+
+   * Customer identifiers are standardized across systems.
+   * Data formats and timestamps are normalized.
+   * Events are linked to the same customer entity.
+
+4. **Unified Dataset**
+
+   * All customer-related events are combined into a central data platform.
+
+5. **Organization-Wide View**
+
+   * Analysts can now observe the full customer lifecycle:
+
+     * marketing exposure
+     * purchasing behavior
+     * support interactions
+
+Without integration, each system would provide only a partial view of customer activity.
 
 ---
 
-### Insight
+## Final Section — Seeing the Organization as an Interconnected System
 
-Organizations rarely suffer from a lack of data—they suffer from **fragmented data**.
+* Organizations generate data across many independent systems, each capturing a limited perspective.
+* Data integration connects these partial observations into unified datasets that reveal relationships across processes.
+* Through pipelines that extract, transform, and load data, fragmented records become part of a coherent analytical environment.
+* When integration is successful, the organization becomes observable as a **connected system of events, entities, and processes**.
 
-Each system captures a small piece of reality, but decisions require a **holistic view across systems**.
+In the next chapter, the focus moves from integration to **data storage and organization**.
+Once datasets are unified, they must be structured so that analysts and decision systems can efficiently query, explore, and interpret them.
 
-Data integration bridges this gap by connecting independent observations into unified datasets that can support analytics, machine learning, and decision systems.
+---
 
-In other words:
+## References
 
-> Data becomes valuable not when it is captured, but when it can be **connected and understood across the entire organization**.
+* Kleppmann, Martin. *Designing Data-Intensive Applications.* O’Reilly Media, 2017.
+
+* Kimball, Ralph & Ross, Margy. *The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling.* Wiley, 2013.
+
+* Inmon, William H. *Building the Data Warehouse.* Wiley, 2005.
+
+* Hellerstein, Joseph, Stonebraker, Michael, & Hamilton, James. “Architecture of a Database System.” *Foundations and Trends in Databases*, 2007.
+
+* Vassiliadis, Panos. “A Survey of Extract–Transform–Load Technology.” *International Journal of Data Warehousing and Mining*, 2009.
+
+* Zaharia, Matei et al. “Apache Spark: A Unified Engine for Big Data Processing.” *Communications of the ACM*, 2016.

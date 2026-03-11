@@ -145,7 +145,7 @@ Design suggestions:
 
 ---
 
-## Example Section — Product Recommendations in an E-Commerce Platform
+## Example — Product Recommendations in an E-Commerce Platform
 
 An online retail platform provides personalized product recommendations to customers while they browse.
 
@@ -180,7 +180,7 @@ Through this operational pipeline, predictive intelligence shapes the customer e
 
 ---
 
-## Final Section — From Intelligence to Operational Impact
+## From Intelligence to Operational Impact
 
 * Predictive models create potential value, but operational systems determine whether that value is realized.
 * Operational decision systems embed intelligence directly into digital products and workflows, allowing predictions to guide actions in real time.

@@ -1,5 +1,6 @@
 # The Core Mental Model of the Book
 
+## Chapter 3
 ## The Decision Intelligence System
 
 At its simplest:
@@ -29,7 +30,7 @@ This is the **Decision Intelligence Loop**.
 But to become the **memorable mental model**, it needs to show **three interacting layers**.
 
 ---
-
+# Chapter 11
 # The Three-Layer Decision Intelligence System
 
 This is the **master diagram for the entire book**.
@@ -144,7 +145,7 @@ Outcome → Learning → Better Decisions
 This is **Parts V–VI**.
 
 ---
-
+# Chapter 13
 # The Flywheel Layer
 
 Your book’s unique contribution is that the loop **compounds over time**.

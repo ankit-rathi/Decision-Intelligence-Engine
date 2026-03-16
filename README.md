@@ -5,6 +5,10 @@
 
 ![](https://cdn-images-1.medium.com/max/2600/1*WnX0hjQsLgV6_2k6UbRHRA.png)
 
+# About the Book
+
+This book explores how modern organizations design systems that convert observations of reality into better decisions. While data platforms, analytics, and machine learning have advanced rapidly, many organizations still struggle to translate these capabilities into measurable business impact. The central idea of this book is that the true purpose of data systems is to support decision-making. Using the framework Reality → Data → Intelligence → Decision → Action → Outcome → Learning, the book explains how data infrastructure, analytical models, and operational workflows can be integrated into decision intelligence systems that continuously improve decisions over time. Written for data professionals, product owners, and business leaders, the book provides a systems-oriented perspective on how data and AI can be aligned with real organizational outcomes.
+
 # Preface
 
 Over the past two decades, I have worked across multiple roles in the data and AI ecosystem—as a data scientist, data engineer, and data architect. During this time, I have had the opportunity to work primarily with enterprise organizations, product companies, and consulting firms. Across these environments, I have seen the evolution of data systems from traditional analytics platforms to modern data platforms and AI-driven systems.

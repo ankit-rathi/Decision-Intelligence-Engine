@@ -2,7 +2,7 @@
 
 ---
 
-## Anticipating Outcomes in Digital Systems *(Opening Observation)*
+## Anticipating Outcomes in Digital Systems 
 
 Many modern digital systems operate not only by reacting to current inputs but by anticipating future outcomes. Email platforms identify and filter spam before it reaches the user. Retail systems recommend products that customers are likely to purchase. Financial institutions estimate the probability of default before approving a loan.
 
@@ -12,7 +12,7 @@ This shift from observation to anticipation marks a fundamental transition in ho
 
 ---
 
-## The Limits of Retrospective Analysis *(Problem)*
+## The Limits of Retrospective Analysis 
 
 Analytical intelligence provides structured explanations of past behavior, but it does not directly address future uncertainty. Organizations must often make decisions before outcomes are realized. Pricing strategies, risk assessments, inventory planning, and customer engagement all require forward-looking judgment.
 
@@ -24,7 +24,7 @@ To address this limitation, organizations require computational systems that can
 
 ---
 
-## Learning Patterns to Predict the Future *(Core Idea)*
+## Learning Patterns to Predict the Future 
 
 Predictive intelligence uses machine learning systems to generate probabilistic estimates of future outcomes. These systems learn relationships between observed variables and known outcomes from historical data.
 
@@ -36,7 +36,7 @@ Predictive intelligence therefore extends data systems from explanation into ant
 
 ---
 
-## The Predictive Modeling Pipeline *(System Model)*
+## The Predictive Modeling Pipeline 
 
 The transformation from historical data to future predictions can be represented as a structured pipeline:
 
@@ -56,7 +56,7 @@ This pipeline formalizes how systems move from historical observations to forwar
 
 ---
 
-## How Predictive Systems Learn and Generalize *(Mechanism)*
+## How Predictive Systems Learn and Generalize 
 
 ### Prediction and Explanation
 
@@ -102,7 +102,7 @@ These probabilities reflect uncertainty in the data and the environment. Decisio
 
 ---
 
-## Example: Spam Detection in Email Systems *(Real-World Example)*
+## Example: Spam Detection in Email Systems 
 
 Spam filtering systems illustrate predictive intelligence in practice. Email platforms receive large volumes of messages, many of which may be unsolicited or malicious. Identifying spam before it reaches the user is essential for maintaining usability and security.
 
@@ -114,7 +114,7 @@ Messages exceeding a predefined threshold are filtered out of the inbox. This sy
 
 ---
 
-## From Understanding to Anticipation *(Strategic Insight)*
+## From Understanding to Anticipation 
 
 Predictive intelligence enables organizations to move beyond retrospective analysis into forward-looking decision-making. By estimating future outcomes, systems can support earlier and more effective interventions.
 

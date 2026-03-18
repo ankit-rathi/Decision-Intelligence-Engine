@@ -2,7 +2,7 @@
 
 ---
 
-## Observing the Effects of Decisions in Real Time *(Opening Observation)*
+## Observing the Effects of Decisions in Real Time 
 
 Modern digital systems continuously observe how their decisions influence user behavior and business performance. Recommendation engines track whether users engage with suggested content. Marketing platforms measure conversions following targeted campaigns. Product teams monitor engagement metrics after releasing new features.
 
@@ -12,7 +12,7 @@ This constant measurement reflects a shift in how organizations operate. Decisio
 
 ---
 
-## The Challenge of Evaluating Decision Effectiveness *(Problem)*
+## The Challenge of Evaluating Decision Effectiveness 
 
 Once decisions are executed within operational systems, organizations face the challenge of determining whether those decisions produced desirable results. Outcomes emerge as actions interact with complex and dynamic environments. User behavior, market conditions, and external factors all influence what is observed.
 
@@ -24,7 +24,7 @@ Reliable evaluation requires systematic tracking of outcomes. Organizations must
 
 ---
 
-## Outcomes as the Basis for Learning *(Core Idea)*
+## Outcomes as the Basis for Learning 
 
 Decision systems rely on measurable outcomes to determine their effectiveness. Outcomes represent the observable consequences of actions taken within operational environments.
 
@@ -34,7 +34,7 @@ Outcome measurement enables continuous improvement. It allows organizations to r
 
 ---
 
-## From Decisions to Measurable Results *(System Model)*
+## From Decisions to Measurable Results 
 
 The relationship between decisions and their evaluation can be represented as a structured flow:
 
@@ -54,7 +54,7 @@ This flow establishes a direct connection between decision-making and evaluation
 
 ---
 
-## Mechanisms for Measuring Decision Performance *(Mechanism)*
+## Mechanisms for Measuring Decision Performance 
 
 ### Defining Decision Outcomes
 
@@ -100,7 +100,7 @@ By incorporating outcome data into model training and decision design, organizat
 
 ---
 
-## Example: Measuring Recommendation Effectiveness *(Real-World Example)*
+## Example: Measuring Recommendation Effectiveness 
 
 Content recommendation systems illustrate how decision outcomes are measured in practice. Each recommendation represents a decision about which content to present to a user.
 
@@ -112,7 +112,7 @@ By analyzing these measurements, teams evaluate the effectiveness of recommendat
 
 ---
 
-## Measurement as the Foundation of Learning Systems *(Strategic Insight)*
+## Measurement as the Foundation of Learning Systems 
 
 Measuring outcomes allows organizations to determine whether their decision systems create real value. It provides the evidence needed to distinguish effective decisions from ineffective ones.
 

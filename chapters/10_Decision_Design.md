@@ -2,7 +2,7 @@
 
 ---
 
-## From Prediction to Action *(Opening Observation)*
+## From Prediction to Action 
 
 Modern data systems increasingly generate predictions about future events. Fraud detection models assign probabilities to transactions, estimating the likelihood of fraudulent activity. Credit scoring systems evaluate the probability of default before approving loans. Recommendation engines estimate the likelihood that a user will engage with content.
 
@@ -12,7 +12,7 @@ In practice, organizations must translate these probabilistic signals into concr
 
 ---
 
-## The Gap Between Forecasts and Decisions *(Problem)*
+## The Gap Between Forecasts and Decisions 
 
 Predictive models produce probabilities, scores, or expected values. These outputs quantify uncertainty but do not prescribe actions. Organizations must still decide how to respond to these predictions in a consistent and systematic way.
 
@@ -24,7 +24,7 @@ The challenge is to convert probabilistic forecasts into operational choices tha
 
 ---
 
-## Decision Rules as the Bridge *(Core Idea)*
+## Decision Rules as the Bridge 
 
 Decision rules provide the mechanism that translates predictions into actions. These rules define how predicted probabilities or scores map to specific responses.
 
@@ -34,7 +34,7 @@ By formalizing these mappings, decision rules ensure that predictive signals are
 
 ---
 
-## The Structure of Decision Mapping *(System Model)*
+## The Structure of Decision Mapping 
 
 The relationship between predictions and actions can be represented as a simple decision mapping:
 
@@ -52,7 +52,7 @@ This mapping operationalizes predictive intelligence. It ensures that prediction
 
 ---
 
-## Mechanisms for Translating Predictions into Actions *(Mechanism)*
+## Mechanisms for Translating Predictions into Actions 
 
 ### Predictions and Decisions
 
@@ -98,7 +98,7 @@ The relative costs of these errors influence decision design. For example, in fr
 
 ---
 
-## Example: Decision Design in Fraud Detection *(Real-World Example)*
+## Example: Decision Design in Fraud Detection
 
 Fraud detection systems illustrate how predictive outputs are translated into operational decisions. Payment platforms evaluate each transaction using models that estimate the probability of fraud.
 
@@ -110,7 +110,7 @@ The effectiveness of the system depends not only on the accuracy of the model bu
 
 ---
 
-## Operationalizing Intelligence Through Decisions *(Strategic Insight)*
+## Operationalizing Intelligence Through Decisions 
 
 Predictive models generate potential intelligence, but decision rules convert that intelligence into action. Without decision design, predictions remain disconnected from operational processes.
 

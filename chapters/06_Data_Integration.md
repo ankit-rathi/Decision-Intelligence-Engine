@@ -46,13 +46,13 @@ The integration of distributed data systems can be described through a simple ar
 data sources → ingestion → processing → storage
 ```
 
-The process begins with **data sources**. These sources include operational databases, application logs, third-party services, and event streams. Each source generates observations describing activity within a particular system.
+The process begins with *data sources*. These sources include operational databases, application logs, third-party services, and event streams. Each source generates observations describing activity within a particular system.
 
-Next comes **ingestion**, the mechanism responsible for collecting data from these sources and transporting it into centralized infrastructure. Ingestion systems use connectors, APIs, message queues, or file transfers to move data across system boundaries.
+Next comes *ingestion*, the mechanism responsible for collecting data from these sources and transporting it into centralized infrastructure. Ingestion systems use connectors, APIs, message queues, or file transfers to move data across system boundaries.
 
-Once data enters the pipeline, **processing** systems perform transformation and organization. Processing stages standardize formats, validate records, resolve inconsistencies, and prepare data for analysis. This stage converts raw operational signals into structured analytical datasets.
+Once data enters the pipeline, *processing* systems perform transformation and organization. Processing stages standardize formats, validate records, resolve inconsistencies, and prepare data for analysis. This stage converts raw operational signals into structured analytical datasets.
 
-Finally, the processed data is delivered to **storage** platforms such as data warehouses, data lakes, or analytical databases. These storage environments maintain integrated datasets that analysts, data scientists, and business applications can access for reporting, experimentation, and modeling.
+Finally, the processed data is delivered to *storage* platforms such as data warehouses, data lakes, or analytical databases. These storage environments maintain integrated datasets that analysts, data scientists, and business applications can access for reporting, experimentation, and modeling.
 
 Through this architecture, fragmented operational signals are consolidated into unified data foundations.
 
@@ -62,13 +62,13 @@ Through this architecture, fragmented operational signals are consolidated into 
 
 ### ETL and ELT Strategies
 
-Data pipelines follow different transformation strategies depending on system architecture. In **ETL (Extract, Transform, Load)** pipelines, data is transformed before being loaded into analytical storage. This approach ensures that only cleaned and structured data enters the warehouse.
+Data pipelines follow different transformation strategies depending on system architecture. In *ETL (Extract, Transform, Load)* pipelines, data is transformed before being loaded into analytical storage. This approach ensures that only cleaned and structured data enters the warehouse.
 
-In **ELT (Extract, Load, Transform)** pipelines, raw data is first loaded into the analytical platform and transformed afterward. Modern cloud warehouses often support this model because they provide large-scale compute resources for performing transformations directly within the storage environment.
+In *ELT (Extract, Load, Transform)* pipelines, raw data is first loaded into the analytical platform and transformed afterward. Modern cloud warehouses often support this model because they provide large-scale compute resources for performing transformations directly within the storage environment.
 
 ### Batch and Streaming Pipelines
 
-Integration pipelines can process data in **batch** or **streaming** modes. Batch pipelines move data periodically, often on hourly or daily schedules. They are suitable for large datasets where immediate updates are not required.
+Integration pipelines can process data in *batch* or *streaming* modes. Batch pipelines move data periodically, often on hourly or daily schedules. They are suitable for large datasets where immediate updates are not required.
 
 Streaming pipelines process events continuously as they occur. Event streams flow through messaging systems that deliver records to downstream processing stages in near real time. Streaming architectures are commonly used for monitoring systems, recommendation engines, and operational dashboards.
 
@@ -126,4 +126,4 @@ Reliable pipelines ensure that analysts, product teams, and executives operate f
 
 Without integration infrastructure, decision-makers must rely on partial or conflicting data sources. Analytical insights become difficult to reproduce, and organizational learning slows.
 
-Data integration therefore forms the structural backbone of modern analytical systems. Once organizations successfully combine observations from distributed sources, the next step is extracting meaning from those datasets. The focus then shifts from integration to interpretation—turning unified data into **analytical intelligence**.
+Data integration therefore forms the structural backbone of modern analytical systems. Once organizations successfully combine observations from distributed sources, the next step is extracting meaning from those datasets. The focus then shifts from integration to interpretation—turning unified data into *analytical intelligence*.

@@ -42,13 +42,13 @@ The core structure of a data-driven organization can be represented as:
 decisions → outcomes → learning → better decisions
 ```
 
-The cycle begins with **decisions**, which drive actions across the organization. These decisions may be made by individuals, teams, or automated systems embedded in products and operations.
+The cycle begins with *decisions*, which drive actions across the organization. These decisions may be made by individuals, teams, or automated systems embedded in products and operations.
 
-These actions produce **outcomes**, which reflect how decisions interact with real-world conditions. Outcomes may include changes in revenue, user behavior, operational efficiency, or risk exposure.
+These actions produce *outcomes*, which reflect how decisions interact with real-world conditions. Outcomes may include changes in revenue, user behavior, operational efficiency, or risk exposure.
 
-**Learning processes** analyze these outcomes. This involves interpreting data, identifying patterns, and understanding causal relationships. Learning transforms raw outcomes into actionable insights.
+*Learning processes* analyze these outcomes. This involves interpreting data, identifying patterns, and understanding causal relationships. Learning transforms raw outcomes into actionable insights.
 
-These insights feed into **better decisions**. Updated models, improved heuristics, and refined processes guide future actions. The cycle then repeats, continuously improving decision quality over time.
+These insights feed into *better decisions*. Updated models, improved heuristics, and refined processes guide future actions. The cycle then repeats, continuously improving decision quality over time.
 
 ---
 

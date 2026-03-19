@@ -42,13 +42,13 @@ The relationship between decisions and their evaluation can be represented as a 
 decision → action → outcome → measurement
 ```
 
-The process begins with a **decision**, which selects a course of action under uncertainty. This decision is typically based on predictive models and predefined rules.
+The process begins with a *decision*, which selects a course of action under uncertainty. This decision is typically based on predictive models and predefined rules.
 
-The decision leads to an **action**, which is executed within the operational system. This action interacts with users, systems, or external environments.
+The decision leads to an *action*, which is executed within the operational system. This action interacts with users, systems, or external environments.
 
-As the action unfolds, it produces an **outcome**. Outcomes represent the observable effects of the action, such as user engagement, financial results, or system performance.
+As the action unfolds, it produces an *outcome*. Outcomes represent the observable effects of the action, such as user engagement, financial results, or system performance.
 
-Finally, **measurement** captures and quantifies these outcomes. Metrics are recorded, aggregated, and analyzed to assess the effectiveness of the original decision.
+Finally, *measurement* captures and quantifies these outcomes. Metrics are recorded, aggregated, and analyzed to assess the effectiveness of the original decision.
 
 This flow establishes a direct connection between decision-making and evaluation. It ensures that every action generates data that can inform future improvements.
 
@@ -120,4 +120,4 @@ Reliable evaluation supports continuous improvement. Outcome data informs update
 
 As measurement becomes integrated into decision systems, organizations begin to build self-reinforcing feedback loops. Each decision generates data that improves future decisions.
 
-This dynamic transforms decision systems into adaptive learning systems. The continuous interaction between action and measurement leads to compounding improvements over time, forming the basis for the next stage: the **Decision Flywheel**.
+This dynamic transforms decision systems into adaptive learning systems. The continuous interaction between action and measurement leads to compounding improvements over time, forming the basis for the next stage: the *Decision Flywheel*.

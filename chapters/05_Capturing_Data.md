@@ -48,11 +48,11 @@ The transformation from real-world activity to analyzable data can be described 
 event → instrumentation → data record
 ```
 
-The process begins with an **event**. An event represents a discrete occurrence within a system or environment. Examples include a user clicking a button, a payment being processed, a server generating an error, or a sensor detecting temperature changes.
+The process begins with an *event*. An event represents a discrete occurrence within a system or environment. Examples include a user clicking a button, a payment being processed, a server generating an error, or a sensor detecting temperature changes.
 
-**Instrumentation** acts as the detection mechanism for these events. Instrumentation may consist of software code embedded in applications, monitoring agents within infrastructure, or physical sensors attached to devices. Its role is to detect that an event has occurred and capture relevant attributes describing the occurrence.
+*Instrumentation* acts as the detection mechanism for these events. Instrumentation may consist of software code embedded in applications, monitoring agents within infrastructure, or physical sensors attached to devices. Its role is to detect that an event has occurred and capture relevant attributes describing the occurrence.
 
-Once detected, the event is converted into a **data record**. The record typically includes structured fields such as timestamps, event types, identifiers, and contextual metadata. These records are written to logging systems, databases, or event streams.
+Once detected, the event is converted into a *data record*. The record typically includes structured fields such as timestamps, event types, identifiers, and contextual metadata. These records are written to logging systems, databases, or event streams.
 
 Through this process, transient activity becomes persistent information. Events that would otherwise disappear are preserved as structured data that can be analyzed and interpreted.
 
@@ -62,9 +62,9 @@ Through this process, transient activity becomes persistent information. Events 
 
 ### Events and State Data
 
-Data systems often represent activity in two complementary forms: events and state data. **Events** describe discrete actions that occur at specific moments, such as a purchase or login attempt.
+Data systems often represent activity in two complementary forms: events and state data. *Events* describe discrete actions that occur at specific moments, such as a purchase or login attempt.
 
-**State data**, by contrast, represents the current condition of entities within a system. For example, the current balance of an account or the status of an order reflects the system’s present state. Events typically cause transitions between different states.
+*State data*, by contrast, represents the current condition of entities within a system. For example, the current balance of an account or the status of an order reflects the system’s present state. Events typically cause transitions between different states.
 
 ### Logs and Telemetry
 
@@ -86,9 +86,9 @@ These behavioral signals provide insights into how users interact with products.
 
 ### Structured and Unstructured Observations
 
-Captured observations can take different forms. **Structured observations** follow predefined schemas that define fields and data types. Examples include event records stored in relational tables or structured logs.
+Captured observations can take different forms. *Structured observations* follow predefined schemas that define fields and data types. Examples include event records stored in relational tables or structured logs.
 
-**Unstructured observations** may include text logs, images, audio signals, or other flexible formats. These observations require additional processing before they can be analyzed systematically.
+*Unstructured observations* may include text logs, images, audio signals, or other flexible formats. These observations require additional processing before they can be analyzed systematically.
 
 ### Measurement Bias and Missing Data
 
@@ -128,4 +128,4 @@ However, modern organizations rarely operate a single application or platform. A
 
 As the number of systems grows, these streams become distributed across different environments and technologies. Understanding the organization’s full operational picture therefore requires combining observations from multiple sources.
 
-Managing and integrating these distributed observations leads to the next challenge in building data systems: **integrating data across systems.**
+Managing and integrating these distributed observations leads to the next challenge in building data systems: *integrating data across systems.*

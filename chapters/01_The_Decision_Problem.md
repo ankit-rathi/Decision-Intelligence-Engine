@@ -47,13 +47,13 @@ At the most fundamental level, organizational activity can be described as a sim
 environment → decision → action → outcome
 ```
 
-The **environment** represents the external world in which the organization operates. Markets generate demand signals, competitors introduce new products, regulations evolve, and technologies create new opportunities. These signals are often incomplete, ambiguous, and constantly changing.
+The *environment* represents the external world in which the organization operates. Markets generate demand signals, competitors introduce new products, regulations evolve, and technologies create new opportunities. These signals are often incomplete, ambiguous, and constantly changing.
 
-Organizations observe and interpret these signals to produce a **decision**. A decision is a commitment to a specific course of action—launching a product, investing capital, entering a market, or adjusting pricing.
+Organizations observe and interpret these signals to produce a *decision*. A decision is a commitment to a specific course of action—launching a product, investing capital, entering a market, or adjusting pricing.
 
-Once a decision is made, it triggers an **action**. Resources are deployed, teams execute plans, and operational activities begin. This stage represents the concrete implementation of the chosen strategy.
+Once a decision is made, it triggers an *action*. Resources are deployed, teams execute plans, and operational activities begin. This stage represents the concrete implementation of the chosen strategy.
 
-Finally, actions interact with the environment to produce **outcomes**. Customers respond, competitors react, and financial results emerge. Outcomes reveal what happened, but they do not eliminate the uncertainty that existed when the decision was made.
+Finally, actions interact with the environment to produce *outcomes*. Customers respond, competitors react, and financial results emerge. Outcomes reveal what happened, but they do not eliminate the uncertainty that existed when the decision was made.
 
 This sequence forms the basic loop through which organizations interact with the world.
 

@@ -10,7 +10,7 @@ Organizations today collect more data than ever before. Data platforms are more 
 
 But beneath that surface, an important question frequently remains unanswered:
 
-**Are these systems actually improving decisions?**
+*Are these systems actually improving decisions?*
 
 In many organizations, the answer is unclear.
 
@@ -18,12 +18,12 @@ Over the years, I have observed that different roles in an organization often vi
 
 The result is that data and AI initiatives sometimes become fragmented. Projects are launched without a clear understanding of the decisions they are meant to improve. Analytics produces reports but not actions. Machine learning models generate predictions but lack the mechanisms to translate those predictions into operational decisions. Data accumulates, but its connection to business impact remains indirect.
 
-In other words, organizations may have **more data and more models**, but they do not necessarily have **better decisions**.
+In other words, organizations may have *more data and more models*, but they do not necessarily have *better decisions*.
 
 Over time, these observations led me to a simple but powerful realization:
 
 > The ultimate purpose of data systems is not to produce data, dashboards, or predictions.
-> The purpose of data systems is to **support better decisions**.
+> The purpose of data systems is to *support better decisions*.
 
 This idea became the foundation for the framework explored in this book.
 
@@ -39,11 +39,11 @@ Reality → Data → Intelligence → Decision → Action → Outcome → Learni
 
 This sequence describes a continuous loop through which organizations observe reality, transform those observations into data, derive intelligence from that data, make decisions, take actions, observe outcomes, and learn from those outcomes.
 
-Although each stage of this loop is familiar in isolation—data engineering focuses on data, machine learning focuses on intelligence, and business operations focus on decisions and outcomes—these stages are often discussed separately. What is frequently missing is a unified perspective that explains **how they fit together as a system**.
+Although each stage of this loop is familiar in isolation—data engineering focuses on data, machine learning focuses on intelligence, and business operations focus on decisions and outcomes—these stages are often discussed separately. What is frequently missing is a unified perspective that explains *how they fit together as a system*.
 
-Modern organizations are not just building data platforms or machine learning models. They are building **decision systems**—systems that continuously convert information into action and learning.
+Modern organizations are not just building data platforms or machine learning models. They are building *decision systems*—systems that continuously convert information into action and learning.
 
-This book refers to these systems as **Decision Intelligence Engine**.
+This book refers to these systems as *Decision Intelligence Engine*.
 
 A decision intelligence system integrates data infrastructure, analytics, machine learning, and operational workflows into a coherent architecture whose ultimate purpose is to improve decisions over time.
 
@@ -53,11 +53,11 @@ A decision intelligence system integrates data infrastructure, analytics, machin
 
 The ideas in this book emerged gradually from many projects, conversations, and reflections over the years. Different projects exposed different aspects of the same underlying challenge. Some projects revealed gaps in data infrastructure. Others highlighted the difficulty of operationalizing machine learning models. Still others showed how analytics initiatives struggled to demonstrate measurable business impact.
 
-Across these experiences, one theme consistently appeared: organizations were investing heavily in data and AI capabilities, but the connection between those capabilities and **actual decisions** was often unclear.
+Across these experiences, one theme consistently appeared: organizations were investing heavily in data and AI capabilities, but the connection between those capabilities and *actual decisions* was often unclear.
 
 This book is an attempt to address that gap.
 
-It aims to provide a conceptual framework for understanding how modern data and AI systems support decision-making. Instead of focusing on individual technologies, tools, or algorithms, the book takes a **systems perspective**. It examines how data pipelines, analytical models, operational systems, and feedback loops work together to form a continuous cycle of decision improvement.
+It aims to provide a conceptual framework for understanding how modern data and AI systems support decision-making. Instead of focusing on individual technologies, tools, or algorithms, the book takes a *systems perspective*. It examines how data pipelines, analytical models, operational systems, and feedback loops work together to form a continuous cycle of decision improvement.
 
 In this sense, the book is not only about data engineering or machine learning. It is about how organizations design systems that transform information into action and learning.
 
@@ -65,9 +65,9 @@ In this sense, the book is not only about data engineering or machine learning. 
 
 ## Who This Book Is For
 
-The primary audience for this book is **data professionals**—data engineers, data scientists, analytics engineers, and architects who design and build modern data systems.
+The primary audience for this book is *data professionals*—data engineers, data scientists, analytics engineers, and architects who design and build modern data systems.
 
-However, many of the ideas discussed here also apply to **product owners and business leaders** who work closely with data and AI teams. One of the goals of this book is to help bridge the gap between technical and business perspectives.
+However, many of the ideas discussed here also apply to *product owners and business leaders* who work closely with data and AI teams. One of the goals of this book is to help bridge the gap between technical and business perspectives.
 
 Data professionals often focus on technical challenges such as scalability, reliability, and model performance. Business leaders, on the other hand, focus on outcomes such as revenue growth, risk reduction, and customer experience. Decision intelligence systems sit at the intersection of these concerns.
 
@@ -93,19 +93,19 @@ Later chapters explore how organizations measure the outcomes of their decisions
 
 Finally, the book examines the organizational and architectural foundations required to support these systems, including data platforms, governance, observability, and strategic decision-making.
 
-Throughout the book, the focus remains on **systems thinking**: understanding how the different components of data and AI ecosystems work together to create value.
+Throughout the book, the focus remains on *systems thinking*: understanding how the different components of data and AI ecosystems work together to create value.
 
 ---
 
 ## How to Read This Book
 
-This book is designed to serve both as a **conceptual guide** and as a **reference**.
+This book is designed to serve both as a *conceptual guide* and as a *reference*.
 
 Readers who are new to the topic may benefit from reading the book from beginning to end, as the chapters build progressively on one another. The earlier chapters introduce core ideas and models that provide context for the later discussions.
 
 However, each chapter is also written to stand on its own. Readers interested in specific topics—such as data platforms, operational AI systems, or experimentation—may choose to jump directly to those chapters and explore them independently.
 
-The goal is not only to explain individual technologies but also to provide a **mental model** that helps readers understand how these technologies fit together within larger decision systems.
+The goal is not only to explain individual technologies but also to provide a *mental model* that helps readers understand how these technologies fit together within larger decision systems.
 
 ---
 
@@ -125,7 +125,7 @@ The volume of data available to organizations will continue to grow, and advance
 
 Data alone does not create value. Intelligence alone does not create value.
 
-Value emerges when organizations use data and intelligence to make **better decisions** and continuously learn from the outcomes of those decisions.
+Value emerges when organizations use data and intelligence to make *better decisions* and continuously learn from the outcomes of those decisions.
 
 This book explores how to design the systems that make that possible.
 

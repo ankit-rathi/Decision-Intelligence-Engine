@@ -73,7 +73,7 @@ Governance must align with organizational priorities. Not all decisions require 
 
 ---
 
-## Governance in a Recommendation System
+## Example: Governance in a Recommendation System
 
 Consider an AI-driven recommendation system operating within a digital platform. User interactions generate data that is processed into features and used by models to predict preferences. Decision logic selects which items to display, and the system executes these recommendations in real time.
 
@@ -85,7 +85,7 @@ Through coordinated control across all stages, the system remains reliable, inte
 
 ---
 
-### From Intelligent Systems to Reliable Organizations
+## From Intelligent Systems to Reliable Organizations
 
 Governance transforms decision systems from experimental capabilities into dependable organizational infrastructure. By embedding control mechanisms across the decision value chain, organizations ensure that intelligence systems produce consistent and trustworthy outcomes.
 

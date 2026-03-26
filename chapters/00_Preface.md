@@ -80,7 +80,7 @@ Understanding how data systems influence decisions can help both technical and b
 This book explores how organizations design and operate decision intelligence systems by examining each stage of the decision loop:
 
 ```
-Reality → Data → Intelligence → Decision → Action → Outcome → Learning
+( Reality ) → [ Data ] → { Intelligence } → < Decision > → [ Action ] → ( Outcome ) ↺ ( Learning )
 ```
 
 The chapters move progressively through this lifecycle.

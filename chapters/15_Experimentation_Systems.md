@@ -39,7 +39,7 @@ This approach transforms operational systems into learning environments. Decisio
 The core structure of experimentation can be represented as:
 
 ```text
-variant A vs variant B → outcome comparison
+< Variant A vs B > → [ Actions ] → ( Outcomes ) → { Comparison }
 ```
 
 Each *variant* represents a different decision strategy or product configuration. For example, one variant may use a baseline recommendation algorithm, while another introduces a new ranking logic.

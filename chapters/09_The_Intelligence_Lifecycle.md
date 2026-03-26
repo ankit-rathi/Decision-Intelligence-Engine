@@ -41,7 +41,7 @@ Continuous learning therefore transforms predictive intelligence from a static o
 The lifecycle of predictive systems can be represented as a recurring loop:
 
 ```text id="n8sy80"
-data → training → deployment → feedback → retraining
+[ Data ] → { Training } → { Deployment } → ( Outcome ) ↺ { Retraining }
 ```
 
 The cycle begins with *data*, which includes historical observations used to train models. This data provides examples of how inputs relate to outcomes.

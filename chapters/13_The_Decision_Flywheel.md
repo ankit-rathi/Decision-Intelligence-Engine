@@ -39,7 +39,7 @@ Over time, this process creates compounding improvements. Each cycle builds on t
 The decision flywheel can be represented as a recurring loop:
 
 ```text id="er4s26"
-decision → action → outcome → data → better decisions
+< Decision > → [ Action ] → ( Outcome ) → [ Data ] ↺ < Decision >
 ```
 
 The cycle begins with a *decision*, which selects an action based on current intelligence. This decision reflects the best available understanding at that point in time.

@@ -39,7 +39,7 @@ Outcome measurement enables continuous improvement. It allows organizations to r
 The relationship between decisions and their evaluation can be represented as a structured flow:
 
 ```text id="uhgh4g"
-decision → action → outcome → measurement
+< Decision > → [ Action ] → ( Outcome ) → { Measurement }
 ```
 
 The process begins with a *decision*, which selects a course of action under uncertainty. This decision is typically based on predictive models and predefined rules.

@@ -23,8 +23,10 @@ Written for data professionals, product managers, and business leaders, this boo
 ---
 
 # **Table of Contents**
+---
 
-## **Preface**
+- **i. How to Read this Book**
+- **ii. Preface**
 
 ---
 
@@ -103,4 +105,9 @@ How organizations operationalize decision intelligence at scale.
 20. **Governance of Decision Systems** - Controlling and aligning decision systems end-to-end.
 
 21. **The Data-Driven Organization** - Institutionalizing continuous learning through decisions.
+
+---
+
+- **iii. Bibliograpy**
+- **iv. About the Author**
 

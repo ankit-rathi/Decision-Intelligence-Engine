@@ -34,7 +34,8 @@ This idea became the foundation for the framework explored in this book.
 About four or five years ago, while working across multiple projects and reflecting on the broader landscape of data and AI systems, I began thinking about how organizations convert observations of the world into decisions and actions. This thinking eventually crystallized into a simple conceptual model:
 
 ```
-( Reality ) → [ Data ] → { Intelligence } → < Decision > → [ Action ] → ( Outcome ) ↺ ( Learning )
+( Reality ) → [ Data ] → { Intelligence } → < Decision > → [ Action ] →
+( Outcome ) ↺ ( Learning )
 ```
 
 This sequence describes a continuous loop through which organizations observe reality, transform those observations into data, derive intelligence from that data, make decisions, take actions, observe outcomes, and learn from those outcomes.
@@ -80,7 +81,8 @@ Understanding how data systems influence decisions can help both technical and b
 This book explores how organizations design and operate decision intelligence systems by examining each stage of the decision loop:
 
 ```
-( Reality ) → [ Data ] → { Intelligence } → < Decision > → [ Action ] → ( Outcome ) ↺ ( Learning )
+( Reality ) → [ Data ] → { Intelligence } → < Decision > → [ Action ] →
+( Outcome ) ↺ ( Learning )
 ```
 
 The chapters move progressively through this lifecycle.
